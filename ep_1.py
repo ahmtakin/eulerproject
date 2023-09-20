@@ -1,3 +1,4 @@
+#problem1
 #sum of all mutliples of 3 or 5 below 1000
 
 result=0 #will hold value for sum
